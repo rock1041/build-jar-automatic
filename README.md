@@ -1,2 +1,2 @@
 # build-jar-automatic
-Building job automatically
+Configuring Maven to build jar automatically
